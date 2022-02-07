@@ -1,0 +1,10 @@
+C:\Users\Gahab\source\repos\HW1_CSharp\HW1_CSharp\bin\Debug\HW1.exe.config
+C:\Users\Gahab\source\repos\HW1_CSharp\HW1_CSharp\bin\Debug\HW1.exe
+C:\Users\Gahab\source\repos\HW1_CSharp\HW1_CSharp\bin\Debug\HW1.pdb
+C:\Users\Gahab\source\repos\HW1_CSharp\HW1_CSharp\obj\Debug\HW1_CSharp.csproj.AssemblyReference.cache
+C:\Users\Gahab\source\repos\HW1_CSharp\HW1_CSharp\obj\Debug\HW1.Finestra.resources
+C:\Users\Gahab\source\repos\HW1_CSharp\HW1_CSharp\obj\Debug\HW1.Properties.Resources.resources
+C:\Users\Gahab\source\repos\HW1_CSharp\HW1_CSharp\obj\Debug\HW1_CSharp.csproj.GenerateResource.cache
+C:\Users\Gahab\source\repos\HW1_CSharp\HW1_CSharp\obj\Debug\HW1_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Gahab\source\repos\HW1_CSharp\HW1_CSharp\obj\Debug\HW1.exe
+C:\Users\Gahab\source\repos\HW1_CSharp\HW1_CSharp\obj\Debug\HW1.pdb

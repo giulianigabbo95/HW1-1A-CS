@@ -1,0 +1,20 @@
+F:\Alessandro Magno\Documenti\Studio\Università\Didattica Magistrale Sapienza\Primo Anno\Primo Semestre\Statistics\Homeworks\2021-2022\.Gabriele Giuliani\HW1\Programmi\HW1_CSharp\HW1-1A-CS\bin\Debug\HW1.exe.config
+F:\Alessandro Magno\Documenti\Studio\Università\Didattica Magistrale Sapienza\Primo Anno\Primo Semestre\Statistics\Homeworks\2021-2022\.Gabriele Giuliani\HW1\Programmi\HW1_CSharp\HW1-1A-CS\bin\Debug\HW1.exe
+F:\Alessandro Magno\Documenti\Studio\Università\Didattica Magistrale Sapienza\Primo Anno\Primo Semestre\Statistics\Homeworks\2021-2022\.Gabriele Giuliani\HW1\Programmi\HW1_CSharp\HW1-1A-CS\bin\Debug\HW1.pdb
+F:\Alessandro Magno\Documenti\Studio\Università\Didattica Magistrale Sapienza\Primo Anno\Primo Semestre\Statistics\Homeworks\2021-2022\.Gabriele Giuliani\HW1\Programmi\HW1_CSharp\HW1-1A-CS\obj\Debug\HW1-1A-CS.csproj.AssemblyReference.cache
+F:\Alessandro Magno\Documenti\Studio\Università\Didattica Magistrale Sapienza\Primo Anno\Primo Semestre\Statistics\Homeworks\2021-2022\.Gabriele Giuliani\HW1\Programmi\HW1_CSharp\HW1-1A-CS\obj\Debug\HW1.Finestra.resources
+F:\Alessandro Magno\Documenti\Studio\Università\Didattica Magistrale Sapienza\Primo Anno\Primo Semestre\Statistics\Homeworks\2021-2022\.Gabriele Giuliani\HW1\Programmi\HW1_CSharp\HW1-1A-CS\obj\Debug\HW1.Properties.Resources.resources
+F:\Alessandro Magno\Documenti\Studio\Università\Didattica Magistrale Sapienza\Primo Anno\Primo Semestre\Statistics\Homeworks\2021-2022\.Gabriele Giuliani\HW1\Programmi\HW1_CSharp\HW1-1A-CS\obj\Debug\HW1-1A-CS.csproj.GenerateResource.cache
+F:\Alessandro Magno\Documenti\Studio\Università\Didattica Magistrale Sapienza\Primo Anno\Primo Semestre\Statistics\Homeworks\2021-2022\.Gabriele Giuliani\HW1\Programmi\HW1_CSharp\HW1-1A-CS\obj\Debug\HW1-1A-CS.csproj.CoreCompileInputs.cache
+F:\Alessandro Magno\Documenti\Studio\Università\Didattica Magistrale Sapienza\Primo Anno\Primo Semestre\Statistics\Homeworks\2021-2022\.Gabriele Giuliani\HW1\Programmi\HW1_CSharp\HW1-1A-CS\obj\Debug\HW1.exe
+F:\Alessandro Magno\Documenti\Studio\Università\Didattica Magistrale Sapienza\Primo Anno\Primo Semestre\Statistics\Homeworks\2021-2022\.Gabriele Giuliani\HW1\Programmi\HW1_CSharp\HW1-1A-CS\obj\Debug\HW1.pdb
+C:\Users\Gahab\Desktop\Nuova cartella\HW1\Programmi\HW1_CSharp\HW1-1A-CS\bin\Debug\HW1.exe.config
+C:\Users\Gahab\Desktop\Nuova cartella\HW1\Programmi\HW1_CSharp\HW1-1A-CS\bin\Debug\HW1.exe
+C:\Users\Gahab\Desktop\Nuova cartella\HW1\Programmi\HW1_CSharp\HW1-1A-CS\bin\Debug\HW1.pdb
+C:\Users\Gahab\Desktop\Nuova cartella\HW1\Programmi\HW1_CSharp\HW1-1A-CS\obj\Debug\HW1-1A-CS.csproj.AssemblyReference.cache
+C:\Users\Gahab\Desktop\Nuova cartella\HW1\Programmi\HW1_CSharp\HW1-1A-CS\obj\Debug\HW1.Finestra.resources
+C:\Users\Gahab\Desktop\Nuova cartella\HW1\Programmi\HW1_CSharp\HW1-1A-CS\obj\Debug\HW1.Properties.Resources.resources
+C:\Users\Gahab\Desktop\Nuova cartella\HW1\Programmi\HW1_CSharp\HW1-1A-CS\obj\Debug\HW1-1A-CS.csproj.GenerateResource.cache
+C:\Users\Gahab\Desktop\Nuova cartella\HW1\Programmi\HW1_CSharp\HW1-1A-CS\obj\Debug\HW1-1A-CS.csproj.CoreCompileInputs.cache
+C:\Users\Gahab\Desktop\Nuova cartella\HW1\Programmi\HW1_CSharp\HW1-1A-CS\obj\Debug\HW1.exe
+C:\Users\Gahab\Desktop\Nuova cartella\HW1\Programmi\HW1_CSharp\HW1-1A-CS\obj\Debug\HW1.pdb
